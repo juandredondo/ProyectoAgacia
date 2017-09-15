@@ -1,0 +1,20 @@
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\bin\Debug\AGACIA.exe
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\bin\Debug\AGACIA.pdb
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\bin\Debug\AGACIA.xml
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.MDIParent1.resources
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.Resources.resources
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.vbproj.GenerateResource.Cache
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.exe
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.xml
+C:\Users\PROGRAMACIÓN\Documents\Visual Studio 2008\Projects\AgaciaSolution\AGACIA\obj\Debug\AGACIA.pdb
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.exe
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.xml
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.pdb
+G:\AgaciaSolution\AGACIA\obj\Debug\ResolveAssemblyReference.cache
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.MDIParent1.resources
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.Resources.resources
+G:\AgaciaSolution\AGACIA\obj\Debug\AGACIA.vbproj.GenerateResource.Cache
+G:\AgaciaSolution\AGACIA\bin\Debug\AGACIA.exe
+G:\AgaciaSolution\AGACIA\bin\Debug\AGACIA.pdb
+G:\AgaciaSolution\AGACIA\bin\Debug\AGACIA.xml

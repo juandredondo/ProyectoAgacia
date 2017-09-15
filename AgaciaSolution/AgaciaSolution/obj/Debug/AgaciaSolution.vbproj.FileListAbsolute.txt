@@ -1,0 +1,191 @@
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\AppData\Local\Temporary Projects\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Clientes.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe.config
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProveedor.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Pedidos.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProductos.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxC.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe.config
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProductos.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProveedor.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Form1.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Pedidos.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxC.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\TIC's profe Jorge\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarCliente.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarCliente.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificaDetFactFrm.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.dll
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.pdb
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.xml
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.AbonosDxCVentas.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.GenerarFactura.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Form1.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificarCanped.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ingresos.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarPedidos.resources
+C:\Users\USER\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.VerPedido.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe.config
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.dll
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.pdb
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.xml
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.AbonosDxCVentas.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarPedidos.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarCliente.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProductos.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProveedor.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Form1.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.GenerarFactura.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ingresos.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificaDetFactFrm.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificarCanped.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Pedidos.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxC.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.VerPedido.resources
+C:\Users\Elvis\Desktop\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe.config
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.dll
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.pdb
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.xml
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.AbonosDxCVentas.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarPedidos.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarCliente.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProductos.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProveedor.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.GenerarFactura.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ingresos.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificaDetFactFrm.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificarCanped.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Pedidos.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxC.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxP.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ConsultarCobros.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ListadoDxC.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ListadoDxP.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Consultas.resources
+C:\Users\USER\Desktop\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.LoginForm1.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe.config
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.exe
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.pdb
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\AgaciaSolution.xml
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.dll
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.pdb
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\bin\Debug\Clasesdelproyecto.xml
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.AbonosDxCVentas.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Clientes.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empleados.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Empresa.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Productos.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Proveedores.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarPedidos.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarCliente.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProductos.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.BuscarProveedor.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ConsultarCobros.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Consultas.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ListadoDxC.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.GenerarFactura.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ingresos.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ListadoDxP.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.LoginForm1.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.MDIParent1.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificaDetFactFrm.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.ModificarCanped.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Resources.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Pedidos.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Plantilla.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxC.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.RegistroDxP.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.Ventas.resources
+C:\Users\USER\Desktop\Final\Agacia23032010\AgaciaSolution\AgaciaSolution\obj\Debug\AgaciaSolution.vbproj.GenerateResource.Cache

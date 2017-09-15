@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E18F496C-452E-4A21-BFEA-58C95913E88F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AgaciaSolution.My.MyApplication</StartupObject>
+    <RootNamespace>AgaciaSolution</RootNamespace>
+    <AssemblyName>AgaciaSolution</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AgaciaSolution.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AgaciaSolution.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbonosDxCVentas.Designer.vb">
+      <DependentUpon>AbonosDxCVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AbonosDxCVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgaciaBDDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AgaciaBDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AgaciaBDDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AgaciaBDDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AgaciaBDDataSet1.vb">
+      <DependentUpon>AgaciaBDDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BasicoDs.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BasicoDs.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASICOS\Empleados.Designer.vb">
+      <DependentUpon>Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASICOS\Empresa.Designer.vb">
+      <DependentUpon>Empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASICOS\Productos.Designer.vb">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASICOS\Proveedores.Designer.vb">
+      <DependentUpon>Proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASICOS\Proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPedidos.Designer.vb">
+      <DependentUpon>BuscarPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarCliente.Designer.vb">
+      <DependentUpon>BuscarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarDSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BuscarDSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarDSDataSet.vb">
+      <DependentUpon>BuscarDSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarProductos.Designer.vb">
+      <DependentUpon>BuscarProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarProveedor.Designer.vb">
+      <DependentUpon>BuscarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCobros.Designer.vb">
+      <DependentUpon>ConsultarCobros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarCobros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas.Designer.vb">
+      <DependentUpon>Consultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultasDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ConsultasDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListadoDxC.Designer.vb">
+      <DependentUpon>ListadoDxC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoDxC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerarFactura.Designer.vb">
+      <DependentUpon>GenerarFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GenerarFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos.Designer.vb">
+      <DependentUpon>Ingresos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoDxP.Designer.vb">
+      <DependentUpon>ListadoDxP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoDxP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificaDetFactFrm.Designer.vb">
+      <DependentUpon>ModificaDetFactFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificaDetFactFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarCanped.Designer.vb">
+      <DependentUpon>ModificarCanped.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarCanped.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pedidos\Pedidos.Designer.vb">
+      <DependentUpon>Pedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pedidos\Pedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plantilla.Designer.vb">
+      <DependentUpon>Plantilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plantilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDxC.Designer.vb">
+      <DependentUpon>RegistroDxC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDxC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDxP.Designer.vb">
+      <DependentUpon>RegistroDxP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDxP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesDataSet.vb">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.Designer.vb">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AbonosDxCVentas.resx">
+      <DependentUpon>AbonosDxCVentas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASICOS\Clientes.resx">
+      <DependentUpon>Clientes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASICOS\Empleados.resx">
+      <DependentUpon>Empleados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASICOS\Empresa.resx">
+      <DependentUpon>Empresa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASICOS\Productos.resx">
+      <DependentUpon>Productos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASICOS\Proveedores.resx">
+      <DependentUpon>Proveedores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPedidos.resx">
+      <DependentUpon>BuscarPedidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busquedas\BuscarCliente.resx">
+      <DependentUpon>BuscarCliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busquedas\BuscarProductos.resx">
+      <DependentUpon>BuscarProductos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busquedas\BuscarProveedor.resx">
+      <DependentUpon>BuscarProveedor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCobros.resx">
+      <DependentUpon>ConsultarCobros.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas.resx">
+      <DependentUpon>Consultas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoDxC.resx">
+      <DependentUpon>ListadoDxC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerarFactura.resx">
+      <DependentUpon>GenerarFactura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos.resx">
+      <DependentUpon>Ingresos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoDxP.resx">
+      <DependentUpon>ListadoDxP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificaDetFactFrm.resx">
+      <DependentUpon>ModificaDetFactFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarCanped.resx">
+      <DependentUpon>ModificarCanped.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedidos\Pedidos.resx">
+      <DependentUpon>Pedidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plantilla.resx">
+      <DependentUpon>Plantilla.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroDxC.resx">
+      <DependentUpon>RegistroDxC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroDxP.resx">
+      <DependentUpon>RegistroDxP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AgaciaBDDataSet.xsc">
+      <DependentUpon>AgaciaBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AgaciaBDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AgaciaBDDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AgaciaBDDataSet.xss">
+      <DependentUpon>AgaciaBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AgaciaBDDataSet1.xsc">
+      <DependentUpon>AgaciaBDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AgaciaBDDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AgaciaBDDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AgaciaBDDataSet1.xss">
+      <DependentUpon>AgaciaBDDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Busquedas\BuscarDSDataSet.xsc">
+      <DependentUpon>BuscarDSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Busquedas\BuscarDSDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BuscarDSDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Busquedas\BuscarDSDataSet.xss">
+      <DependentUpon>BuscarDSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ConsultasDS.xsc">
+      <DependentUpon>ConsultasDS.xsd</DependentUpon>
+    </None>
+    <None Include="ConsultasDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ConsultasDS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ConsultasDS.xss">
+      <DependentUpon>ConsultasDS.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ReportesDataSet.xsc">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ReportesDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportesDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ReportesDataSet.xss">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Clasesdelproyecto\Clasesdelproyecto.vbproj">
+      <Project>{FE5F9D45-5D34-48CA-A249-BB23514D223C}</Project>
+      <Name>Clasesdelproyecto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BasicoDs.xsc">
+      <DependentUpon>BasicoDs.xsd</DependentUpon>
+    </None>
+    <None Include="BasicoDs.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BasicoDs.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BasicoDs.xss">
+      <DependentUpon>BasicoDs.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

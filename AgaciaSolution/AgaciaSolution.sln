@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AgaciaSolution", "AgaciaSolution\AgaciaSolution.vbproj", "{E18F496C-452E-4A21-BFEA-58C95913E88F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clasesdelproyecto", "Clasesdelproyecto\Clasesdelproyecto.vbproj", "{FE5F9D45-5D34-48CA-A249-BB23514D223C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18F496C-452E-4A21-BFEA-58C95913E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18F496C-452E-4A21-BFEA-58C95913E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18F496C-452E-4A21-BFEA-58C95913E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18F496C-452E-4A21-BFEA-58C95913E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5F9D45-5D34-48CA-A249-BB23514D223C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5F9D45-5D34-48CA-A249-BB23514D223C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5F9D45-5D34-48CA-A249-BB23514D223C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5F9D45-5D34-48CA-A249-BB23514D223C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,976 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AgaciaSolution
+</name>
+</assembly>
+<members>
+<member name="T:AgaciaSolution.AgaciaBDDataSet.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.ProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.ProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet.ProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.ProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.AgaciaBDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.AgaciaBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.AgaciaBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.AgaciaBDDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.AbonosDxCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FuncionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.IngresosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaPedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LinIngresoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.PedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.RolesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ROLxFUNCIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.AbonosDxCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FuncionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.IngresosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaPedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LinIngresoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.PedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.RolesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ROLxFUNCIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.AbonosDxCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.DxPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.FuncionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.IngresosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LineaPedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.LinIngresoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.PedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.RolesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.ROLxFUNCIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDs">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.AbonosDxCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.DxCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.DxPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.FacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.FuncionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.IngresosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.LineaFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.LineaPedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.LinIngresoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.PedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.ProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.RolesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.ROLxFUNCIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.UsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.BasicoDs,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.BasicoDs,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.BasicoDs,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.BasicoDs)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.BasicoDsTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.FacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.LineaFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentafacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.bucaexistprodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.DxCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDxCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaPedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.PedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaIngresoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDXPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaDxCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCobrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.VerAbonosXIdClieDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxAbonoDXCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCxPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.FacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.LineaFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentafacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.bucaexistprodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.DxCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDxCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaPedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.PedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaIngresoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDXPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaDxCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCobrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.VerAbonosXIdClieRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxAbonoDXCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCxPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.FacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.LineaFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentafacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.bucaexistprodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.DxCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDxCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaPedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.PedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaIngresoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxDXPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.CuentaDxCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCobrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.VerAbonosXIdClieRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.MaxAbonoDXCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1.ConsultaCxPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.FacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.LineaFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.CuentafacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.bucaexistprodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.DxCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.MaxDxCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.CuentaPedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.PedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.CuentaIngresoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.MaxDXPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.CuentaDxCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.ConsultaCobrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.VerAbonosXIdClieTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.MaxAbonoDXCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.ConsultaCxPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.AgaciaBDDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.AgaciaBDDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.AgaciaBDDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.AgaciaBDDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.AgaciaBDDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPROVEEDORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.VerDetallePedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPROVEEDORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.VerDetallePedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPROVEEDORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.BuscarPedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet.VerDetallePedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.BuscarPROVEEDORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.BuscarPedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.VerDetallePedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.BuscarDSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.BuscarDSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.BuscarDSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.BuscarDSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.BuscarDSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSet.GenerarFactura1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSet.GenerarFactura1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSet.GenerarFactura1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSetTableAdapters.GenerarFactura1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.ReportesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.ReportesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.ReportesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.ReportesDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.ReportesDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AgaciaSolution.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:AgaciaSolution.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:AgaciaSolution.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarEmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarEmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarEmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS.ListarProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.ListarClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.ListarEmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.ListarProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.ListarProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(AgaciaSolution.ConsultasDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.UpdateInsertedRows(AgaciaSolution.ConsultasDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.UpdateDeletedRows(AgaciaSolution.ConsultasDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.UpdateAll(AgaciaSolution.ConsultasDS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AgaciaSolution.ConsultasDSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
